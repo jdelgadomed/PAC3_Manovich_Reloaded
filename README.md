@@ -1,4 +1,4 @@
-# PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
+# PAC3: Visionant el futur amb les ulleres de Manovich 
 
 ### Recurs d'aprenentatge de Cultura Digital 
 
@@ -6,8 +6,6 @@
 Autor: Jose Manuel Delgado Medialdea
 
 Data: 25 de maig de 2023
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
 ## Plantejament
@@ -21,7 +19,8 @@ La hibridació de mitjans esdevé segons Manovich un pas que va més enllà de l
 Tot seguit exposarem dos exemples ben diferents i recents (posteriors a la publicació de The Software Takes Command) al voltant de la idea d'hibridació, que se centren en aquesta relació entre els mitjans, des de la perspectiva de l'experiència d'ús, i parant atenció també al paper que juguen el que Manovich (2013) anomena l'estètica de la hibridació i els seus principis més elementals. 
 
 
-## Cas 1: Microsoft Whiteboard
+**Re-descobrint la hibridació: Cas 1**
+## Microsoft Whiteboard
 
 MS Whiteboard (en endavant MS Whiteboard), part del paquet ofimàtic Microsoft 365 i especialment integrada amb Microsoft Teams, és un entorn de treball col·laboratiu que simula una pissarra o llenç en blanc infinit on encabir diversos mitjans: podem dibuixar formes geomètriques bàsiques, escriure blocs de text, crear simulacions de notes adhesives editables i inserir icones, així com també llistes i taules editables (creades prèviament des d'una altra utilitat de Microsoft Teams anomenada Loop) i, finalment, d'altres elements externs: imatges mapa de bits, vídeos, pàgines de documents PDF i enllaços a planes web.
 
@@ -36,7 +35,7 @@ El principal en MS Whiteboard, dèiem, és la conversa i, per tant, el procés e
 Per construir aquesta relació entre mitjans, MS Whiteboard parteix d'allò que Manovich (2013) considera el principi elemental de l'estètica híbrida dels nous mitjans digitals, la juxtaposició, i n'afegeix la superposició com a recurs bàsic. Com en els programes que incorporen el concepte de treball per capes, al llenç de MS Whiteboard podem reordenar cada element en un eix de profunditat (portar-ho al davant o enviar-ho al darrere) i, d'aquesta manera, fer usos com ara el d'inserir una imatge externa (per exemple un mapa) enviar-la al fons i bloquejar-la, i aleshores emprar la resta de mitjans disponibles per fer anotacions de diversa mena sobre la imatge (per exemple, dibuixar símbols i rutes sobre el mapa). Una altra mostra de la centralitat que pren a MS Whiteboard la interrelació dels mitjans i els significats que aquesta genera és el nombre reduït d'opcions de transformació dels elements i, alhora, la tendència d'oferir-ne les mateixes per a tots els tipus de mitjans. Per exemple, tots els elements es poden rotar, fins i tot els vídeos, i a efectes d'accessibilitat a tots els elements podem afegir un text alternatiu per a lectors de pantalla.
 
 
-## Cas 2: els documentals web interactius i l'exemple de _Do Not Track_
+## Re-descobrint la hibridació: Cas 2. Els documentals web interactius i l'exemple de Do Not Track
 
 Un any abans de la publicació de _The Software Takes Command_, Kate Nash (2012) plantejava que el terme documental web (_webdocumentary_) es pot emprar per descriure els documentals distribuïts a través d'Internet que són interactius i multimèdia. Al mateix temps però, en destacava el seu caràcter experimental: 
 
@@ -48,20 +47,40 @@ Alberich (2018) es fa ressò de _Highrise: Universe Within_, del que diu que «d
 
 Do not track ens presenta els cinc episodis en la forma del que semblen vídeos de pocs minuts que segueixen una narrativa lineal i acompanyats d'una _veu en off_, si bé destaca el fet que sovint el film es parcel·la en diferents quadrants que mostren diferents clips. Tanmateix mentre la persona espectadora visiona cada episodi es manté la il·lusió de trobar-se davant d'un sol vídeo. Sorprenentment, però, en alguns moments el _vídeo_ es pausa sol, la imatge entra en bucle (simulant un GIF animat), la _veu en off_ s'atura i, sense abandonar la interfície única de reproductor de vídeo, sobre la imatge apareixen elements interactius com ara camps de formulari per a que la persona espectadora introdueixi dades, o uns controls lliscants amb què la persona ha d'indicar certes preferències. Quan això succeeix i un cop s'ha completat la interacció, es reprèn el _vídeo_ i en mostra gràfics i animacions personalitzades segons les dades proporcionades per la persona.
 
-Així, doncs, un dels principals aspectes a destacar de Do Not Track és com fa ús de diverses tecnologies web per entremesclar i presentar de forma unificada el que en realitat és una combinació de clips de vídeo, imatges mapa de bits en diversos formats (PNG, JPG i GIF animat), diagrames animats construïts amb gràfics vectorials i dades proporcionades a l'instant per la persona espectadora, com també dades extretes del dispositiu en temps real, sense intervenció de la persona. Do not Track ens serveix tot plegat en un fil narratiu continuu, lineal, i sota una interfície única de reproductor que manté en tot moment la il·lusió de trobar-se davant d'un sol mitjà en forma de vídeo.
+Així, doncs, un dels principals aspectes a destacar de _Do Not Track_ és com fa ús de diverses tecnologies web per entremesclar i presentar de forma unificada el que en realitat és una combinació de clips de vídeo, imatges mapa de bits en diversos formats (PNG, JPG i GIF animat), diagrames animats construïts amb gràfics vectorials i dades proporcionades a l'instant per la persona espectadora, com també dades extretes del dispositiu en temps real, sense intervenció de la persona. Do not Track ens serveix tot plegat en un fil narratiu continuu, lineal, i sota una interfície única de reproductor que manté en tot moment la il·lusió de trobar-se davant d'un sol mitjà en forma de vídeo.
 
-De nou, com en el cas ja esmentat de MS Whiteboard, tal muntatge d'hibridació de mitjans s'assenta en l'estètica de la juxtaposició definida per Manovich (2013) i en companyia del recurs de la superposició. Amb l'inspector de codi del navegador, he pogut observar que les tècniques principals de les què Do Not Track se serveix per aconseguir tal efecte són la composició de pàgina en graella (_CSS grid_) i el posicionat per capes (_CSS z-index_), a més de les propietats de control de vídeo i àudio de l'HTML5 i els controls d'esdeveniments i les animacions i efectes en Javascript.  
+De nou, com en el cas ja esmentat de MS Whiteboard, tal muntatge d'hibridació de mitjans s'assenta en l'estètica de la juxtaposició definida per Manovich (2013) i en companyia del recurs de la superposició. Amb l'inspector de codi del navegador, he pogut observar que les tècniques principals de les què _Do Not Track_ se serveix per aconseguir tal efecte són la composició de pàgina en graella (_CSS grid_) i el posicionat per capes (_CSS z-index_), a més de les propietats de control de vídeo i àudio de l'HTML5 i els controls d'esdeveniments i les animacions i efectes en Javascript.  
 
-D'una banda, la composició en graella és el que permet a Do Not Track juxtaposar imatges i clips per combinar continguts personalitzats, segons les dades de la persona espectadora, amb el contingut per defecte que es mostra a tothom per igual. De l'altra, el posicionat per capes és el que permet mantenir la il·lusió de trobar-nos davant d'un únic vídeo que només podem pausar o reaundar en el seu conjunt. 
+D'una banda, la composició en graella és el que permet a _Do Not Track_ juxtaposar imatges i clips per combinar continguts personalitzats, segons les dades de la persona espectadora, amb el contingut per defecte que es mostra a tothom per igual. De l'altra, el posicionat per capes és el que permet mantenir la il·lusió de trobar-nos davant d'un únic vídeo que només podem pausar o reaundar en el seu conjunt. 
 
 
 ### Referències
 
 * Manovich, Lev. (2013). **The Software Takes Command**. Editorial UOC. 
 
+* Adell, Ferran. (2014). Remediación, multimedia e hibridación de los medio. Fundamentos y evolución de la multimedia.  http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+
+* Alberich, J. (2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. Mosaic. https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+
+* Brett Gaylor (2015). Do Not Track [documental web]. https://donottrack-doc.com
+
+* Manovich, Lev. (2013). The Software Takes Command. Editorial UOC
+
+* Microsoft (2023). Supercargue su lugar de trabajo híbrido con Microsoft Whiteboard. Soporte de Microsoft. https://support.microsoft.com/es-es/office/supercargue-su-lugar-de-trabajo-h%C3%ADbrido-con-microsoft-whiteboard-b051886a-b12f-4ebe-ae18-a8100fa72b1f
+
+* Nash, K. (2012). Modes of interactivity: analysing the webdoc. Media, Culture & Society 34(2). https://journals.sagepub.com/doi/10.1177/0163443711430758
+
+* Rothuizen, J., van Tol, M., Visser, D., van der Linden, A. (2014). Refugee Republic [documental web]. https://refugeerepublic.submarinechannel.com/
+
+* Serpa M. i Uppal, R. (2017). The World in Ten Blocks  [documental web]. https://theworldintenblocks.com/
+
+* Shoebridge, P. i Simmons, M. (2011). Welcom to Pine Point [documental web]. https://pinepoint.nfb.ca/
+
 
 ----
 
 Llicències:
+
 Del text d'aquest article: Creative Commons (CC BY-SA 4.0).
-Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+
+Del textos citats, copyright dels seus autors.
