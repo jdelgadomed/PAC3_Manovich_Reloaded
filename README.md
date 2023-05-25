@@ -1,4 +1,4 @@
-# PAC3: Visionant el futur amb les ulleres de Manovich 
+# PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
 ### Recurs d'aprenentatge de Cultura Digital 
 
@@ -21,8 +21,7 @@ La hibridació de mitjans esdevé segons Manovich un pas que va més enllà de l
 Tot seguit exposarem dos exemples ben diferents i recents (posteriors a la publicació de The Software Takes Command) al voltant de la idea d'hibridació, que se centren en aquesta relació entre els mitjans, des de la perspectiva de l'experiència d'ús, i parant atenció també al paper que juguen el que Manovich (2013) anomena l'estètica de la hibridació i els seus principis més elementals. 
 
 
-**Re-descobrint la hibridació: Cas 1**
-## Microsoft Whiteboard
+## Cas 1: Microsoft Whiteboard
 
 MS Whiteboard (en endavant MS Whiteboard), part del paquet ofimàtic Microsoft 365 i especialment integrada amb Microsoft Teams, és un entorn de treball col·laboratiu que simula una pissarra o llenç en blanc infinit on encabir diversos mitjans: podem dibuixar formes geomètriques bàsiques, escriure blocs de text, crear simulacions de notes adhesives editables i inserir icones, així com també llistes i taules editables (creades prèviament des d'una altra utilitat de Microsoft Teams anomenada Loop) i, finalment, d'altres elements externs: imatges mapa de bits, vídeos, pàgines de documents PDF i enllaços a planes web.
 
@@ -37,7 +36,7 @@ El principal en MS Whiteboard, dèiem, és la conversa i, per tant, el procés e
 Per construir aquesta relació entre mitjans, MS Whiteboard parteix d'allò que Manovich (2013) considera el principi elemental de l'estètica híbrida dels nous mitjans digitals, la juxtaposició, i n'afegeix la superposició com a recurs bàsic. Com en els programes que incorporen el concepte de treball per capes, al llenç de MS Whiteboard podem reordenar cada element en un eix de profunditat (portar-ho al davant o enviar-ho al darrere) i, d'aquesta manera, fer usos com ara el d'inserir una imatge externa (per exemple un mapa) enviar-la al fons i bloquejar-la, i aleshores emprar la resta de mitjans disponibles per fer anotacions de diversa mena sobre la imatge (per exemple, dibuixar símbols i rutes sobre el mapa). Una altra mostra de la centralitat que pren a MS Whiteboard la interrelació dels mitjans i els significats que aquesta genera és el nombre reduït d'opcions de transformació dels elements i, alhora, la tendència d'oferir-ne les mateixes per a tots els tipus de mitjans. Per exemple, tots els elements es poden rotar, fins i tot els vídeos, i a efectes d'accessibilitat a tots els elements podem afegir un text alternatiu per a lectors de pantalla.
 
 
-## Re-descobrint la hibridació: Cas 2. Els documentals web interactius i l'exemple de Do Not Track
+## Cas 2: els documentals web interactius i l'exemple de _Do Not Track_
 
 Un any abans de la publicació de _The Software Takes Command_, Kate Nash (2012) plantejava que el terme documental web (_webdocumentary_) es pot emprar per descriure els documentals distribuïts a través d'Internet que són interactius i multimèdia. Al mateix temps però, en destacava el seu caràcter experimental: 
 
