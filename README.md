@@ -1,4 +1,4 @@
-# PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
+# PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 ### Recurs d'aprenentatge de Cultura Digital 
 
