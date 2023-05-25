@@ -12,9 +12,9 @@ Data: 25 de maig de 2023
 
 ## Plantejament
 
-A The Software Takes Command, Lev Manovich (2013) introdueix la idea de la hibridació per explicar l'evolució dels nous mitjans digitals i la caracteritza com un procés d'entremescla en el que les interfícies i les tècniques de programari intervenen per produir nous objectes amb noves lectures i significacions. Un procés en el que es produeix una fusió de mitjans que dona lloc a una experìencia completament distinta de la que pot oferir per separat cada component.
+A _The Software Takes Command_, Lev Manovich (2013) introdueix la idea de la hibridació per explicar l'evolució dels nous mitjans digitals i la caracteritza com un procés d'entremescla en el que les interfícies i les tècniques de programari intervenen per produir nous objectes amb noves lectures i significacions. Un procés en el que es produeix una fusió de mitjans que dona lloc a una experìencia completament distinta de la que pot oferir per separat cada component.
 
-interfaces, techniques, and ultimately the most fundamental assumptions of different media forms and traditions, are brought together resulting in new media gestalts. That is, they merge together to offer a coherent new experience different from experiencing all the elements separately.
+> in media hybrids, interfaces, techniques, and ultimately the most fundamental assumptions of different media forms and traditions, are brought together resulting in new media gestalts. That is, they merge together to offer a coherent new experience different from experiencing all the elements separately.
 
 La hibridació de mitjans esdevé segons Manovich un pas que va més enllà de la multimèdia i Ferran Adell (2014), fent-se ressò dels postulats de Manovich, emfasitza que la clau per diferenciar multimèdia de mitjans hibridats està en la relació que s'institueix entre els diferents components que els configuren.
 
