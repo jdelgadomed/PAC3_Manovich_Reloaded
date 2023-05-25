@@ -43,7 +43,7 @@ Un any abans de la publicació de _The Software Takes Command_, Kate Nash (2012)
 
 Una dècada després, l'aplicació d'unes tecnologies web en constant evolució al terreny de la creació fílmica i el treball periodístic permet seguir explorant noves formes de narrativa digital i el documental web interactiu esdevé una pràctica ideal per experimentar amb la hibridació de mitjans i, si bé és massa heterogènia per pretendre analitzar-la en el marc del present exercici com un gènere ben definit, podem trobar força exemples d'allò més interessants per il·lustrar-ho.
 
-Alberich (2018) es fa ressò de _Highrise: Universe Within_, del que diu que «destaca como excelencia de hibridación multimedia», i altres obres consultades i que recomano són _Welcome To Pine Point_, _The World In Ten Blocks_, _Netwars_, _Refugee Republic_, _The Industry_  i _A Short History of the Highrise_. En les properes línies però, em centraré en destacar l'exemple de _Do Not Track_ (Brett Gaylor, 2015), un documental web en forma de cinc episodis breus, sobre l'economia de la world wide web i la privacitat de l'internauta. 
+Alberich (2018) es fa ressò de _Highrise: Universe Within_, del que diu que «destaca como excelencia de hibridación multimedia», i altres obres consultades i que recomano són _Welcome to Pine Point_ (Shoebridge i Simmons, 2011), _The World In Ten Blocks_ (Serpa i Uppal, 2017), _Netwars / Out of CTRL_ (Thiele, 2014), _Refugee Republic_ (Rothuizen, van Tol, Visser i van der Linden, 2014), _The Industry. Mapping the ducth drug economy_ (Duijin, 2018) i _A Short History of the Highrise_ (Cisek, 2013). En les properes línies però, em centraré en destacar l'exemple de _Do Not Track_ (Brett Gaylor, 2015), un documental web en forma de cinc episodis breus, sobre l'economia de la world wide web i la privacitat de l'internauta. 
 
 Do not track ens presenta els cinc episodis en la forma del que semblen vídeos de pocs minuts que segueixen una narrativa lineal i acompanyats d'una _veu en off_, si bé destaca el fet que sovint el film es parcel·la en diferents quadrants que mostren diferents clips. Tanmateix mentre la persona espectadora visiona cada episodi es manté la il·lusió de trobar-se davant d'un sol vídeo. Sorprenentment, però, en alguns moments el _vídeo_ es pausa sol, la imatge entra en bucle (simulant un GIF animat), la _veu en off_ s'atura i, sense abandonar la interfície única de reproductor de vídeo, sobre la imatge apareixen elements interactius com ara camps de formulari per a que la persona espectadora introdueixi dades, o uns controls lliscants amb què la persona ha d'indicar certes preferències. Quan això succeeix i un cop s'ha completat la interacció, es reprèn el _vídeo_ i en mostra gràfics i animacions personalitzades segons les dades proporcionades per la persona.
 
@@ -56,25 +56,19 @@ D'una banda, la composició en graella és el que permet a _Do Not Track_ juxtap
 
 ### Referències
 
-* Manovich, Lev. (2013). **The Software Takes Command**. Editorial UOC. 
-
-* Adell, Ferran. (2014). Remediación, multimedia e hibridación de los medio. Fundamentos y evolución de la multimedia.  http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-
-* Alberich, J. (2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. Mosaic. https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
-
-* Brett Gaylor (2015). Do Not Track [documental web]. https://donottrack-doc.com
-
-* Manovich, Lev. (2013). The Software Takes Command. Editorial UOC
-
-* Microsoft (2023). Supercargue su lugar de trabajo híbrido con Microsoft Whiteboard. Soporte de Microsoft. https://support.microsoft.com/es-es/office/supercargue-su-lugar-de-trabajo-h%C3%ADbrido-con-microsoft-whiteboard-b051886a-b12f-4ebe-ae18-a8100fa72b1f
-
-* Nash, K. (2012). Modes of interactivity: analysing the webdoc. Media, Culture & Society 34(2). https://journals.sagepub.com/doi/10.1177/0163443711430758
-
-* Rothuizen, J., van Tol, M., Visser, D., van der Linden, A. (2014). Refugee Republic [documental web]. https://refugeerepublic.submarinechannel.com/
-
-* Serpa M. i Uppal, R. (2017). The World in Ten Blocks  [documental web]. https://theworldintenblocks.com/
-
-* Shoebridge, P. i Simmons, M. (2011). Welcom to Pine Point [documental web]. https://pinepoint.nfb.ca/
+* Manovich, Lev. (2013). _The Software Takes Command_. Editorial UOC. 
+* Adell, Ferran. (2014). Remediación, multimedia e hibridación de los medio. _Fundamentos y evolución de la multimedia_.  http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Alberich, J. (2018). Elementos de la creatividad multimedia: apropiación, remediación, hibridación. _Mosaic_. https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+* Brett Gaylor (2015). _Do Not Track_ [documental web]. https://donottrack-doc.com
+* Cizek, K. (2013). _A Short Hisory of the Highrise_ [documental web]. https://www.nytimes.com/projects/2013/high-rise/index.html
+* Duijin, M. (2018). _The Industry. Mapping the dutch drug economy_ [documental web]. https://theindustryinteractive.com/
+* Manovich, Lev. (2013). _The Software Takes Command_. Bloomsbury
+* Microsoft (2023). _Supercargue su lugar de trabajo híbrido con Microsoft Whiteboard_. https://support.microsoft.com/es-es/office/supercargue-su-lugar-de-trabajo-h%C3%ADbrido-con-microsoft-whiteboard-b051886a-b12f-4ebe-ae18-a8100fa72b1f
+* Nash, K. (2012). Modes of interactivity: analysing the webdoc. _Media, Culture & Society_ 34(2). https://journals.sagepub.com/doi/10.1177/0163443711430758
+* Rothuizen, J., van Tol, M., Visser, D. i van der Linden, A. (2014). _Refugee Republic_ [documental web]. https://refugeerepublic.submarinechannel.com/
+* Serpa M. i Uppal, R. (2017). _The World in Ten Blocks_  [documental web]. https://theworldintenblocks.com/
+* Shoebridge, P. i Simmons, M. (2011). _Welcome to Pine Point_ [documental web]. https://pinepoint.nfb.ca/
+* Thiele, L. (2014). _Netwars / Out of CTRL_ [documental web]. http://www.netwars-project.com/
 
 
 ----
