@@ -85,5 +85,6 @@ D'una banda, la composició en graella és el que permet a _Do Not Track_ juxtap
 
 Llicències:
 
-Del text d'aquest article: Creative Commons (CC BY-SA 4.0).
-Del textos citats i del fotograma de _Do Not Track_, copyright dels seus autors.
+Del text d'aquest article: Creative Commons (CC BY-SA 4.0).  
+Del textos citats, copyright dels seus autors.  
+Del fotograma de _Do Not Track_ (extret del dossier de premsa, d'entre les imatges disponbiles per reproduir), copyright dels seus autors.
