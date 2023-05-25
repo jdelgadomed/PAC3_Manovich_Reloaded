@@ -21,7 +21,8 @@ La hibridació de mitjans esdevé segons Manovich un pas que va més enllà de l
 Tot seguit exposarem dos exemples ben diferents i recents (posteriors a la publicació de The Software Takes Command) al voltant de la idea d'hibridació, que se centren en aquesta relació entre els mitjans, des de la perspectiva de l'experiència d'ús, i parant atenció també al paper que juguen el que Manovich (2013) anomena l'estètica de la hibridació i els seus principis més elementals. 
 
 
-## Re-descobrint la hibridació: Cas 1. Microsoft Whiteboard
+**Re-descobrint la hibridació: Cas 1**
+## Microsoft Whiteboard
 
 MS Whiteboard (en endavant MS Whiteboard), part del paquet ofimàtic Microsoft 365 i especialment integrada amb Microsoft Teams, és un entorn de treball col·laboratiu que simula una pissarra o llenç en blanc infinit on encabir diversos mitjans: podem dibuixar formes geomètriques bàsiques, escriure blocs de text, crear simulacions de notes adhesives editables i inserir icones, així com també llistes i taules editables (creades prèviament des d'una altra utilitat de Microsoft Teams anomenada Loop) i, finalment, d'altres elements externs: imatges mapa de bits, vídeos, pàgines de documents PDF i enllaços a planes web.
 
