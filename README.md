@@ -12,8 +12,13 @@ Data: 25 de maig de 2023
 
 ## Plantejament
 
+A The Software Takes Command, Lev Manovich (2013) introdueix la idea de la hibridació per explicar l'evolució dels nous mitjans digitals i la caracteritza com un procés d'entremescla en el que les interfícies i les tècniques de programari intervenen per produir nous objectes amb noves lectures i significacions. Un procés en el que es produeix una fusió de mitjans que dona lloc a una experìencia completament distinta de la que pot oferir per separat cada component.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+interfaces, techniques, and ultimately the most fundamental assumptions of different media forms and traditions, are brought together resulting in new media gestalts. That is, they merge together to offer a coherent new experience different from experiencing all the elements separately.
+
+La hibridació de mitjans esdevé segons Manovich un pas que va més enllà de la multimèdia i Ferran Adell (2014), fent-se ressò dels postulats de Manovich, emfasitza que la clau per diferenciar multimèdia de mitjans hibridats està en la relació que s'institueix entre els diferents components que els configuren.
+
+Tot seguit exposarem dos exemples ben diferents i recents (posteriors a la publicació de The Software Takes Command) al voltant de la idea d'hibridació, que se centren en aquesta relació entre els mitjans, des de la perspectiva de l'experiència d'ús, i parant atenció també al paper que juguen el que Manovich (2013) anomena l'estètica de la hibridació i els seus principis més elementals. 
 
 
 ## Re-descobrint la hibridació: Cas 1. Microsoft Whiteboard
@@ -57,4 +62,6 @@ D'una banda, la composició en graella és el que permet a Do Not Track juxtapos
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Llicències:
+Del text d'aquest article: Creative Commons (CC BY-SA 4.0).
+Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
