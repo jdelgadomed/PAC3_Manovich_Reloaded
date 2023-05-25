@@ -5,12 +5,12 @@
 
 Autor: Jose Manuel Delgado Medialdea
 
-Fecha: 25 de maig de 2023
+Data: 25 de maig de 2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
-## Planteamiento
+## Plantejament
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -31,11 +31,11 @@ El principal en MS Whiteboard, dèiem, és la conversa i, per tant, el procés e
 Per construir aquesta relació entre mitjans, MS Whiteboard parteix d'allò que Manovich (2013) considera el principi elemental de l'estètica híbrida dels nous mitjans digitals, la juxtaposició, i n'afegeix la superposició com a recurs bàsic. Com en els programes que incorporen el concepte de treball per capes, al llenç de MS Whiteboard podem reordenar cada element en un eix de profunditat (portar-ho al davant o enviar-ho al darrere) i, d'aquesta manera, fer usos com ara el d'inserir una imatge externa (per exemple un mapa) enviar-la al fons i bloquejar-la, i aleshores emprar la resta de mitjans disponibles per fer anotacions de diversa mena sobre la imatge (per exemple, dibuixar símbols i rutes sobre el mapa). Una altra mostra de la centralitat que pren a MS Whiteboard la interrelació dels mitjans i els significats que aquesta genera és el nombre reduït d'opcions de transformació dels elements i, alhora, la tendència d'oferir-ne les mateixes per a tots els tipus de mitjans. Per exemple, tots els elements es poden rotar, fins i tot els vídeos, i a efectes d'accessibilitat a tots els elements podem afegir un text alternatiu per a lectors de pantalla.
 
 
-## Re-descobrint la hibridació: Caso 2. Els documentals web interactius i l'exemple de Do Not Track
+## Re-descobrint la hibridació: Cas 2. Els documentals web interactius i l'exemple de Do Not Track
 
 Un any abans de la publicació de _The Software Takes Command_, Kate Nash (2012) plantejava que el terme documental web (_webdocumentary_) es pot emprar per descriure els documentals distribuïts a través d'Internet que són interactius i multimèdia. Al mateix temps però, en destacava el seu caràcter experimental: 
 
-> As new media technologies and new forms of communication emerge, contemporary documentary makers are engaging in a process of actively re-thinking the documentary project. They are imagining what documentary might become: non-linear, multi-media, interactive, hybrid, cross-platform, convergent, virtual, or something else as yet un-thought (Nash, 2012).
+> As new media technologies and new forms of communication emerge, contemporary documentary makers are engaging in a process of actively re-thinking the documentary project. They are imagining what documentary might become: non-linear, multi-media, interactive, hybrid, cross-platform, convergent, virtual, or something else as yet un-thought. (Nash, 2012)
 
 Una dècada després, l'aplicació d'unes tecnologies web en constant evolució al terreny de la creació fílmica i el treball periodístic permet seguir explorant noves formes de narrativa digital i el documental web interactiu esdevé una pràctica ideal per experimentar amb la hibridació de mitjans i, si bé és massa heterogènia per pretendre analitzar-la en el marc del present exercici com un gènere ben definit, podem trobar força exemples d'allò més interessants per il·lustrar-ho.
 
@@ -52,7 +52,7 @@ D'una banda, la composició en graella és el que permet a Do Not Track juxtapos
 
 ### Referències
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **The Software Takes Command**. Editorial UOC. 
 
 
 ----
