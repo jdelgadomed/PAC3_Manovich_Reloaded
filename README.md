@@ -16,7 +16,7 @@ A _The Software Takes Command_, Lev Manovich (2013) introdueix la idea de la hib
 
 La hibridació de mitjans esdevé segons Manovich un pas que va més enllà de la multimèdia i Ferran Adell (2014), fent-se ressò dels postulats de Manovich, emfasitza que la clau per diferenciar multimèdia de mitjans hibridats està en la relació que s'institueix entre els diferents components que els configuren.
 
-Tot seguit exposarem dos exemples ben diferents i recents (posteriors a la publicació de The Software Takes Command) al voltant de la idea d'hibridació, que se centren en aquesta relació entre els mitjans, des de la perspectiva de l'experiència d'ús, i parant atenció també al paper que juguen el que Manovich (2013) anomena l'estètica de la hibridació i els seus principis més elementals. 
+Tot seguit exposaré dos exemples ben diferents i recents (posteriors a la publicació de _The Software Takes Command_) al voltant de la idea d'hibridació, que se centren en aquesta relació entre els mitjans, des de la perspectiva de l'experiència d'ús, i parant atenció també al paper que juguen el que Manovich (2013) anomena l'estètica de la hibridació i els seus principis més elementals. 
 
 
 ## Cas 1: Microsoft Whiteboard
