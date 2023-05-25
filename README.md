@@ -36,9 +36,11 @@ Ara bé, si analitzem amb detall l'experiència d'ús que proposa l'aplicació v
 
 El principal en MS Whiteboard, dèiem, és la conversa i, per tant, el procés esdevé tant important com la _imatge final_ que pugui deixar el llenç (un diagrama d'afinitat, un mapa mental, un anàlisi DAFO, un mapa de recorregut...), resultat d'una combinació de mitjans que va més enllà d'una simple suma de les seves parts: aquests, per separat, no tindran el mateix sentit i, alhora, serà la relació entre tots ells el que dotarà de significat l'objecte únic resultant. 
 
+![Detall d'elements superposats a MS Whiteboard](/captura-whiteboard-nota.png)
+
 Per construir aquesta relació entre mitjans, MS Whiteboard parteix d'allò que Manovich (2013) considera el principi elemental de l'estètica híbrida dels nous mitjans digitals, la juxtaposició, i n'afegeix la superposició com a recurs bàsic. Com en els programes que incorporen el concepte de treball per capes, al llenç de MS Whiteboard podem reordenar cada element en un eix de profunditat (portar-ho al davant o enviar-ho al darrere) i, d'aquesta manera, fer usos com ara el d'inserir una imatge externa (per exemple un mapa) enviar-la al fons i bloquejar-la, i aleshores emprar la resta de mitjans disponibles per fer anotacions de diversa mena sobre la imatge (per exemple, dibuixar símbols i rutes sobre el mapa). Una altra mostra de la centralitat que pren a MS Whiteboard la interrelació dels mitjans i els significats que aquesta genera és el nombre reduït d'opcions de transformació dels elements i, alhora, la tendència d'oferir-ne les mateixes per a tots els tipus de mitjans. Per exemple, tots els elements es poden rotar, fins i tot els vídeos, i a efectes d'accessibilitat a tots els elements podem afegir un text alternatiu per a lectors de pantalla.
 
-![Detall d'elements superposats a MS Whiteboard](/captura-whiteboard-nota.png) ![Menú contextual de MS Whiteboard que mostra les opcions de posicionament per capes](/captura-whiteboard-davant_darrere.png)
+![Menú contextual de MS Whiteboard que mostra les opcions de posicionament per capes](/captura-whiteboard-davant_darrere.png)
 
 
 ## Re-descobrint la hibridació: Cas 2. Els documentals web interactius i l'exemple de _Do Not Track_
@@ -84,5 +86,4 @@ D'una banda, la composició en graella és el que permet a _Do Not Track_ juxtap
 Llicències:
 
 Del text d'aquest article: Creative Commons (CC BY-SA 4.0).
-
-Del textos citats, copyright dels seus autors.
+Del textos citats i del fotograma de _Do Not Track_, copyright dels seus autors.
